@@ -755,19 +755,10 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ### Project Maintainer
 
-**[Your Name]**
+**[Dinesh Bisht]**
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
-### Support
-
-- 🐛 **Issues**: [Report Bug](https://github.com/yourusername/deepfake-detection/issues)
-- 💡 **Features**: [Request Feature](https://github.com/yourusername/deepfake-detection/issues)
-- 💬 **Discussions**: [Join Discussion](https://github.com/yourusername/deepfake-detection/discussions)
-- 📖 **Wiki**: [Documentation](https://github.com/yourusername/deepfake-detection/wiki)
+- 📧 Email: dineshbishtuk1@example.com
+- 💼 LinkedIn: www.linkedin.com/in/dinesh-bisht-55848a273
 
 ---
 
